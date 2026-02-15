@@ -1,4 +1,4 @@
-<h1 align="center">fiviyy / experienced coder</h1>
+<h1 align="center"> fuviyy / experienced coder</h1>
 
 ###
 
@@ -29,29 +29,34 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiviyy&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuviyy&theme=radical&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiviyy&theme=radical&show_icons=true&hide_border=true&layout=compact&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuviyy&theme=radical&show_icons=true&hide_border=true&layout=compact&locale=ru">
 </p>
 
 ###
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fiviyy/fiviyy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fiviyy/fiviyy/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/fiviyy/fiviyy/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fuviyy/fuviyy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fuviyy/fuviyy/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/fuviyy/fuviyy/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/fiviyy">
-    <img src="https://img.shields.io/badge/GitHub-fiviyy-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/fuviyy">
+    <img src="https://img.shields.io/badge/GitHub-fuviyy-181717?style=for-the-badge&logo=github" />
   </a>
+  <img width="12" />
+  <img src="https://komarev.com/ghpvc/?username=fuviyy&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
+
+
+![snake_gif](https://github.com/fuviyy/fuviyy/blob/output/github-contribution-grid-snake.svg)
