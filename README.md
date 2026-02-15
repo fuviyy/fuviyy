@@ -57,6 +57,3 @@
   <img width="12" />
   <img src="https://komarev.com/ghpvc/?username=fuviyy&style=for-the-badge&color=blue" alt="Profile views" />
 </div>
-
-
-![snake_gif](https://github.com/fuviyy/fuviyy/blob/output/github-contribution-grid-snake.svg)
